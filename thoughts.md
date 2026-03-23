@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 心得感想1
+title: 心得感想
 ---
 
-# 心得感想 ✍️
+# 心得感想 1✍️
 
 {% for post in site.posts %}
   - {{ post.date | date: "%Y-%m-%d" }}  
