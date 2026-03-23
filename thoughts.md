@@ -3,11 +3,8 @@ layout: default
 title: 心得感想
 ---
 
-# 心得感想
+# 心得感想 ✍️
 
-这里是我的一些随笔记录 ✍️
-
-这里是我的文章列表：
-
-- [2026/03/23](./posts/post1.html)
-- [post2](./posts/post2.html)
+{% for post in site.posts %}
+  - [{{ post.title }}]({{ post.url }})
+{% endfor %}
