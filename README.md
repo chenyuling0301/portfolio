@@ -14,4 +14,5 @@
 2.  ARIMA-GARCH-based Forecasting Model of CNY_SGD Exchange Rate (R).
 3.  Database Development and Application (C#, SQL).
 
-## list
+## post
+[👉 心得感想](./thoughts.html)
