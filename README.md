@@ -2,18 +2,15 @@
 
 ദ്ദി˶ᕑᗢᓫ)✧
 
-## Education
-> Southwest Jiaotong University
-> 
-> [School of Mathematics](https://maths.swjtu.edu.cn/)
-> 
+## Education 
 > Statistics B.S.
 
-## Project
-1.  Chinese News Text Crawling and Classification Modeling (Python).
-2.  ARIMA-GARCH-based Forecasting Model of CNY_SGD Exchange Rate (R).
-3.  Database Development and Application (C#, SQL).
+## Interests
+> 电影发烧友
+> 逗猫达人
 
 ## post
 [👉 心得感想](./thoughts.html)  
 [👉 诗词摘抄](./poetry.html)
+[👉 知识沉淀](./study.html)  
+[👉 观影记录](./film.html)
