@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 记录
+title: 心得感想
 permalink: /notes/
 ---
