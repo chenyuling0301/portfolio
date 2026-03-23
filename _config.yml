@@ -4,3 +4,11 @@ location: Guangzhou,CHINA
 #description:
 #show_downloads:
 theme: jekyll-theme-minimal
+
+nav:
+  - title: 首页
+    url: /
+  - title: 作品
+    url: /projects/
+  - title: 心得感想
+    url: /notes/
