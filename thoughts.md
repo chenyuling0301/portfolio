@@ -3,7 +3,7 @@ layout: default
 title: 心得感想
 ---
 
-# 心得感想 1✍️
+# 心得感想✍️
 
 {% for post in site.categories.thoughts %}
   - {{ post.date | date: "%Y-%m-%d" }}  
